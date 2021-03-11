@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Booking-space-truck-app/static/css/main.a5cb4d0f.chunk.css",
+    "main.js": "/Booking-space-truck-app/static/js/main.7ebd9b2c.chunk.js",
+    "main.js.map": "/Booking-space-truck-app/static/js/main.7ebd9b2c.chunk.js.map",
+    "runtime-main.js": "/Booking-space-truck-app/static/js/runtime-main.12df2ba7.js",
+    "runtime-main.js.map": "/Booking-space-truck-app/static/js/runtime-main.12df2ba7.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Booking-space-truck-app/static/css/2.31461e4f.chunk.css",
+    "static/js/2.0923f500.chunk.js": "/Booking-space-truck-app/static/js/2.0923f500.chunk.js",
+    "static/js/2.0923f500.chunk.js.map": "/Booking-space-truck-app/static/js/2.0923f500.chunk.js.map",
+    "static/js/3.b3c93ec7.chunk.js": "/Booking-space-truck-app/static/js/3.b3c93ec7.chunk.js",
+    "static/js/3.b3c93ec7.chunk.js.map": "/Booking-space-truck-app/static/js/3.b3c93ec7.chunk.js.map",
+    "index.html": "/Booking-space-truck-app/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Booking-space-truck-app/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.a5cb4d0f.chunk.css.map": "/Booking-space-truck-app/static/css/main.a5cb4d0f.chunk.css.map",
+    "static/js/2.0923f500.chunk.js.LICENSE.txt": "/Booking-space-truck-app/static/js/2.0923f500.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12df2ba7.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.0923f500.chunk.js",
+    "static/css/main.a5cb4d0f.chunk.css",
+    "static/js/main.7ebd9b2c.chunk.js"
+  ]
+}
